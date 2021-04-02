@@ -1,6 +1,6 @@
 # RotateArray
 
-For Demidov Artemy)
+For Demidov Artemy)  
 __Note:__
 1. The text file should be opened by binary.
 2. The rotated array is saved in the original text file.
